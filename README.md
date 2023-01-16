@@ -2,6 +2,9 @@
 
 <h1 align="center">Hello! I am Umang Kirit Lodaya</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
+<p align='justify'>
+  I am a TY Computer Science Student with experience in software development and problem-solving. I have a strong background in programming languages such as C++, Python, and Java. I have also had the opportunity to work on several projects related to Machine Learning and Artificial Intelligence, which has helped me to develop a deep understanding of these topics. I am a fast learner, an effective communicator and I am able to work well under pressure. I am excited about the opportunity to apply my skills and knowledge to new challenges.
+<p>
 
 <hr>
 
