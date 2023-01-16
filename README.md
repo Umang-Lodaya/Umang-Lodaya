@@ -11,15 +11,13 @@
 <br>
 <br>
   
-- I’m currently learning *Web Development and ML*
+I am a highly motivated and experienced ML Engineer with a background in mathematics, statistics, and computer science. 
 
-- 💬 Ask me about *Programming languages, Development frameworks, Web Development*
+I have experience in developing machine learning models for a variety of applications. 
 
-- 📫 How to reach me *bhavikjain403@gmail.com*
+I am well-versed in a variety of machine learning algorithms and techniques, and I am always eager to take on new challenges and learn new technologies. 
 
-- ⚡ Have a look at my Task Manager *https://taskmann.netlify.app*
-
-- ⚡ Have a look at my Restaurant Website *https://resto-fusion.netlify.app*
+I am a quick learner, a team player, and I am committed to delivering high-quality work that meets or exceeds customer expectations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
