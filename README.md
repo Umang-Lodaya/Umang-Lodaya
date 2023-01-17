@@ -20,7 +20,7 @@ I have worked on projects like:
 
 🌱 I’m currently learning **Reinforcement Learning (Unity), NLP**
 
-👨‍💻 All of my projects are available at [https://github.com/Umang-Lodaya](https://github.com/Umang-Lodaya)
+👨‍💻 All of my projects are available at [my repositories](https://github.com/Umang-Lodaya?tab=repositories)
 
 💬 You can ask me about **ML Algorithms, Techniques**
 
