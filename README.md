@@ -95,11 +95,10 @@ I have worked on projects like:
 </p>
 
 <hr>
- 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Umang-Lodaya&show_icons=true&locale=en&layout=compact" alt="Umang-Lodaya" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Umang-Lodaya&show_icons=true&locale=en" alt="Umang-Lodaya" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umang-Lodaya&" alt="Umang-Lodaya" /></p> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umang-Lodaya&label=Profile%20views&color=0e75b6&style=flat" alt="Umang-Lodaya" /> </p> -->
+<h3 align="left">Stats:</h3>
+<p align='left'>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-lodaya&theme=radical&exclude_repo=Old-CPP-Proxima-Bank&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/></a>
+&nbsp; &nbsp;
+<a href="https://git.io/streak-stats"><img width="50%" src="https://streak-stats.demolab.com/?user=Umang-Lodaya&theme=radical&border_radius=20&fire=FFD600"/></a>
+</p>
