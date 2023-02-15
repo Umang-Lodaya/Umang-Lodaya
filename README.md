@@ -98,7 +98,7 @@ I have worked on projects like:
 
 <h3 align="left">Stats:</h3>
 <p align='left'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-lodaya&theme=radical&exclude_repo=Old-CPP-Proxima-Bank&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-lodaya&theme=flag-india&exclude_repo=Old-CPP-Proxima-Bank&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/></a>
 &nbsp; &nbsp;
-<a href="https://git.io/streak-stats"><img width="50%" src="https://streak-stats.demolab.com/?user=Umang-Lodaya&theme=radical&border_radius=20&fire=FFD600"/></a>
+<a href="https://git.io/streak-stats"><img width="50%" src="https://streak-stats.demolab.com/?user=Umang-Lodaya&theme=flag-india&border_radius=20&fire=FFD600"/></a>
 </p>
