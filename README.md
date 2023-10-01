@@ -32,7 +32,6 @@ I have worked on projects like:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umang-lodaya-074496242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-lodaya-074496242/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/umanglodaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="umanglodaya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umanglodaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umanglodaya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umanglodaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umanglodaya" height="30" width="40" /></a>
 </p>
@@ -83,14 +82,8 @@ I have worked on projects like:
 <hr>  
 
 <p align='left'>
-  <h4 align="left">Learning Game Engine: </h4>
+  <h4 align="left">Development Technologies / Software: </h4>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
-
-<hr>
-
-<p align='left'>
-  <h4 align="left">Linux: </h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
