@@ -31,10 +31,10 @@ I have worked on projects like:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umang-lodaya-074496242/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-lodaya-074496242/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umanglodaya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umanglodaya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umanglodaya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umanglodaya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/umanglodaya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umanglodaya" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/umang-lodaya-074496242/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-lodaya-074496242/" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/umanglodaya" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umanglodaya" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/umanglodaya" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umanglodaya" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/umanglodaya" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umanglodaya" height="30" width="40" /></a>
 </p>
 
 <hr>
