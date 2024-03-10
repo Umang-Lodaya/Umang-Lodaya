@@ -1,9 +1,9 @@
 <hr>
 
-<h1 align="center">Hello! I am Umang Kirit Lodaya</h1>
-<h3 align="center">A Machine Learning Enthusiast</h3>
+<h1 align="left">Hello! I am Umang Kirit Lodaya</h1>
+<h3 align="left">A Machine Learning Enthusiast</h3>
 <p align='justify'>
-  I am a TY Computer Science Student with experience in software development and problem-solving. I have a strong background in programming languages such as C++, Python, and Java. I have also had the opportunity to work on several projects related to Machine Learning and Artificial Intelligence, which has helped me to develop a deep understanding of these topics. I am a fast learner, an effective communicator and I am able to work well under pressure. I am excited about the opportunity to apply my skills and knowledge to new challenges.
+  I am a Final Year Computer Science and Engineering (Data Science) Student with experience in software development and problem-solving. I have a strong background in programming languages such as C++, Python, and Java. I have also had the opportunity to work on several projects related to Machine Learning and Artificial Intelligence, which has helped me to develop a deep understanding of these topics. I am a fast learner, an effective communicator and I am able to work well under pressure. I am excited about the opportunity to apply my skills and knowledge to new challenges.
 <p>
 
 <hr>
@@ -31,26 +31,28 @@ I have worked on projects like:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umang-lodaya-074496242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-lodaya-074496242/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umanglodaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umanglodaya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umanglodaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umanglodaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umang-lodaya-074496242/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-lodaya-074496242/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/umanglodaya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umanglodaya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/umanglodaya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umanglodaya" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/umanglodaya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umanglodaya" height="30" width="40" /></a>
 </p>
 
 <hr>
 
-<p align='left'>
+<p align="left">
   <h4 align="left">Programming Languages: </h4>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 <hr>
 
-<p align='left'>
+<p align="left">
   <h4 align="left">AI / ML: </h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
@@ -60,7 +62,7 @@ I have worked on projects like:
 
 <hr>
 
-<p align='left'>
+<p align="left">
   <h4 align="left">Web Development: </h4>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -73,7 +75,7 @@ I have worked on projects like:
  
 <hr>
  
-<p align='left'>
+<p align="left">
   <h4 align="left">Databases: </h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -81,7 +83,7 @@ I have worked on projects like:
   
 <hr>  
 
-<p align='left'>
+<p align="left">
   <h4 align="left">Development Technologies / Software: </h4>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -90,8 +92,8 @@ I have worked on projects like:
 <hr>
 
 <h3 align="left">Stats:</h3>
-<p align='left'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-lodaya&theme=flag-india&exclude_repo=Old-CPP-Proxima-Bank&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/></a>
+<p align="left">
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-lodaya&theme=dark&exclude_repo=Old-CPP-Proxima-Bank&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/>
 &nbsp; &nbsp;
-<a href="https://git.io/streak-stats"><img width="50%" src="https://streak-stats.demolab.com/?user=Umang-Lodaya&theme=flag-india&border_radius=20&fire=FFD600"/></a>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=Umang-Lodaya&theme=dark&border_radius=20&fire=FFD600"/>
 </p>
